@@ -1,0 +1,1 @@
+A collection of SCIP examples in C++ to get started quickly. 
